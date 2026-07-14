@@ -1,7 +1,7 @@
 🇹🇷 TÜRKÇE
 Gizlilik Politikası
 
-Bu gizlilik politikası, KPSS Canavarı uygulaması (“Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir eğitim uygulamasıdır. “Olduğu gibi (AS IS)” sunulmaktadır.
+Bu gizlilik politikası, Kamupedia uygulaması (“Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir eğitim uygulamasıdır. “Olduğu gibi (AS IS)” sunulmaktadır.
 
 Bilgi Toplama ve Kullanım
 
@@ -47,7 +47,7 @@ Kişiselleştirilmiş değildir
 Kullanıcı davranışına göre üretilmez
 Yasal Uyarı ve İçerik Sorumluluk Reddi
 
-KPSS Canavarı uygulaması, KPSS sınavına hazırlık amacıyla geliştirilmiş bağımsız bir eğitim uygulamasıdır. Uygulama, ÖSYM, Milli Eğitim Bakanlığı veya herhangi bir resmi devlet kurumu ile bağlantılı değildir, bu kurumlar tarafından desteklenmemekte veya onaylanmamaktadır.
+Kamupedia uygulaması, KPSS sınavına hazırlık amacıyla geliştirilmiş bağımsız bir eğitim uygulamasıdır. Uygulama, ÖSYM, Milli Eğitim Bakanlığı veya herhangi bir resmi devlet kurumu ile bağlantılı değildir, bu kurumlar tarafından desteklenmemekte veya onaylanmamaktadır.
 
 İçerik ve Soru Yapısı
 
@@ -89,7 +89,7 @@ Yürürlük Tarihi
 🇬🇧 ENGLISH
 Privacy Policy
 
-This Privacy Policy applies to the KPSS Canavarı application (“Application”), developed by Ali Murat Kalaycı as an ad-supported educational service. The Application is provided “AS IS”.
+This Privacy Policy applies to the Kamupedia application (“Application”), developed by Ali Murat Kalaycı as an ad-supported educational service. The Application is provided “AS IS”.
 
 Information Collection and Use
 
@@ -135,7 +135,7 @@ Is not personalized
 Is not generated based on user behavior
 Disclaimer and Content Responsibility
 
-KPSS Canavarı is an independent educational application for exam preparation purposes. It is not affiliated with, endorsed by, or connected to any government institution, including ÖSYM or the Ministry of National Education.
+Kamupedia is an independent educational application for exam preparation purposes. It is not affiliated with, endorsed by, or connected to any government institution, including ÖSYM or the Ministry of National Education.
 
 Content and Question Structure
 
