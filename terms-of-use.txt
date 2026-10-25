@@ -13,7 +13,9 @@ Uygulama yalnızca eğitim ve pratik amaçlıdır. Resmi sınav başvurusu, belg
 
 Hesap ve Kullanım
 
-Uygulama, kişisel hesap oluşturmayı zorunlu kılmaz. Girişler misafir (anonim) oturum üzerinden yapılabilir.
+Uygulama ad, e-posta veya şifre istemez. Tanıtım ekranlarının sonunda adsız bir hesap oluşturulur.
+
+Bu hesabı Uygulama Ayarları içindeki “Hesabı sil” ile silebilirsin. Silme, adsız hesabı ve cihazda tutulan çalışma kayıtlarını kaldırır. Premium aboneliği iptal etmez; abonelik, mağaza hesabından iptal edilene kadar sürer.
 
 Kullanıcı olarak:
 
@@ -30,6 +32,7 @@ Bu nedenle:
 Soruların tamamı resmi veya doğrulanmış sınav soruları değildir
 Hatalar veya eksiklikler bulunabilir
 Resmi bilgi için ÖSYM ve MEB kaynakları esas alınmalıdır
+
 Premium ve Abonelikler
 
 Uygulama içinde tek seferlik (ömür boyu) satın alımlar ve otomatik yenilenen abonelikler sunulabilir. Satın alma ve abonelik işlemleri Apple App Store veya Google Play üzerinden gerçekleşir.
@@ -73,11 +76,11 @@ Bu kullanım koşulları zaman zaman güncellenebilir. Güncel metin Uygulama i�
 
 İletişim
 
-📧 alimuratkalayci@outlook.com
+alimuratkalayci@outlook.com
 
 Yürürlük Tarihi
 
-5 Eylül 2026
+25 Ekim 2026
 
 🇬🇧 ENGLISH
 Terms of Use
@@ -94,13 +97,16 @@ The Application is intended for educational and practice purposes only. It does 
 
 Account and Use
 
-The Application does not require creating a personal account. Access may be provided through a guest (anonymous) session.
+The Application does not ask for your name, email address, or password. An anonymous account is created at the end of the introductory screens.
+
+You can delete this account from “Delete account” in Application Settings. Deletion removes the anonymous account and the study records stored on the device. It does not cancel a Premium subscription. The subscription continues until you cancel it in your store account.
 
 By using the Application, you agree to:
 
 Use it only for lawful personal educational purposes
 Not copy, reproduce, distribute, or commercially exploit Application content without permission
 Not disrupt, reverse engineer, or misuse the Application
+
 Content and Artificial Intelligence
 
 Approximately 15,000+ questions and content within the Application may be generated or synthesized using artificial intelligence-based systems. While content is reviewed by the developer, it may contain errors, omissions, or outdated information.
@@ -110,6 +116,7 @@ Therefore:
 Not all questions are official or verified exam questions
 Errors or inaccuracies may exist
 Official sources such as ÖSYM and MEB should be considered authoritative
+
 Premium and Subscriptions
 
 The Application may offer one-time (lifetime) purchases and auto-renewing subscriptions. Purchases and subscriptions are processed through the Apple App Store or Google Play.
@@ -153,8 +160,8 @@ These Terms of Use may be updated from time to time. The current version will be
 
 Contact
 
-📧 alimuratkalayci@outlook.com
+alimuratkalayci@outlook.com
 
 Effective Date
 
-September 5, 2026
+October 25, 2026
