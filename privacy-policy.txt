@@ -3,173 +3,259 @@ Gizlilik Politikası
 
 Bu gizlilik politikası, Kamupedia uygulaması (“Uygulama”) için geçerlidir. Uygulama, Ali Murat Kalaycı tarafından geliştirilmiş olup reklam destekli bir eğitim uygulamasıdır. “Olduğu gibi (AS IS)” sunulmaktadır.
 
-Bilgi Toplama ve Kullanım
+Hesap
 
-Uygulama, kullanıcıdan doğrudan kişisel bilgi (isim, e-posta, telefon vb.) toplamaz veya talep etmez.
+Uygulama ad, e-posta, telefon veya şifre istemez.
 
-Ancak uygulama, hizmet kalitesini artırmak ve reklam gösterimi sağlamak amacıyla anonim teknik verileri otomatik olarak toplayabilir:
+İlk kurulumdaki tanıtımın sonunda adsız bir Firebase hesabı oluşturulur. Bu hesabın yalnızca bir hesap numarası vardır. Bu numara adın, e-postan veya telefonun değildir.
+
+Bildirimlere izin verirsen, bildirim anahtarın bu hesap numarasıyla birlikte sunucuya kaydedilir. Bildirim anahtarı, sana bildirim göndermek ve hesabı sildiğinde bu kaydı kaldırmak için kullanılır.
+
+Kullanıcının gönderdiği bilgiler
+
+Geri bildirim yazarsan mesajın, platformun (iOS veya Android), uygulama sürümün ve gönderim zamanın sunucuya kaydedilir.
+
+Bir soruyu bildirirsen mesajın, ilgili sorunun bilgisi, platformun ve gönderim zamanın sunucuya kaydedilir.
+
+Ana sayfadaki kısa ankete katılırsan seçtiğin seçenek ve gönderim zamanın sunucuya kaydedilir.
+
+Bu yeni sürümde geri bildirim, soru bildirimi ve anket cevabı hesap numarana bağlanmaz. Mesajın içine ad, e-posta veya telefon yazarsan bu bilgi mesaj metninin parçası olarak saklanır.
+
+Cihazda tutulan veriler
+
+Çalışma ilerlemesi, test sonuçları, favoriler, yanlışlar, yazım ve eşleştirme ilerlemesi, çalışma planı ve indirilen içerik cihazında tutulur. Bu kayıtlar bir sonraki hesap silme işlemine kadar cihazda kalır.
+
+Tema ve bildirim anahtarın cihazında durur.
+
+Satın alma
+
+Premium satın alma ve abonelik ödemesini Apple veya Google işler. Uygulama kart bilgisi almaz. Premium durumun cihazında tutulur. Satın almayı mağaza hesabından geri yükleyebilirsin.
+
+Hesabı silmek aboneliği iptal etmez. Abonelik, Apple veya Google hesabından iptal edilene kadar sürer.
+
+Otomatik toplanan teknik veriler
+
+Uygulama, hizmeti çalıştırmak, hataları görmek ve reklam göstermek için şu teknik verileri toplayabilir:
 
 Cihaz bilgileri (model, işletim sistemi sürümü)
-IP adresi (genel analiz amaçlı)
-Uygulama kullanım istatistikleri (ekran görüntüleme, kullanım süresi vb.)
-Çökme (crash) raporları
+Uygulama kullanım istatistikleri (ekran görüntüleme, kullanım süresi)
+Çökme raporları
 Reklam etkileşim verileri
 
-Bu veriler kişisel kimlik belirlemek için kullanılmaz.
+iOS’ta analitik ve reklamlar, Apple’ın izleme izni penceresinden sonra başlar. Reklam rızasının gerektiği bölgelerde Google’ın rıza formu da gösterilir.
 
-Üçüncü Taraf Servisler
+IP adresi, Firebase ve Google reklam hizmetleri tarafından işlenebilir. Uygulama senden IP adresi istemez.
 
-Uygulama aşağıdaki servisleri kullanır:
+Üçüncü taraf servisler
 
-Google Firebase Analytics
+Uygulama şu servisleri kullanır:
+
+Firebase Authentication (adsız hesap)
+Cloud Firestore (bildirim anahtarı, geri bildirim, soru bildirimi, anket)
+Firebase Cloud Messaging (bildirim)
+Firebase Storage (içerik ve sorular)
+Firebase Analytics
 Firebase Crashlytics
-Firebase Storage (içerik ve soruların sunulması için)
-Google AdMob (reklam gösterimi için)
+Firebase Remote Config (güncelleme duyurusu)
+Google AdMob (reklam)
+Apple App Store ve Google Play (satın alma)
 
 Bu servislerin kendi gizlilik politikaları geçerlidir.
 
-Veri Kullanım Amacı
+Veri kullanım amacı
 
-Toplanan anonim veriler şu amaçlarla kullanılır:
+Hesabı oluşturmak ve silmek
+Bildirim göndermek
+Geri bildirim, soru bildirimi ve anketi okumak
+İçerik ve soruları sunmak
+Hataları tespit etmek
+Uygulama performansını ve deneyimi geliştirmek
+Reklam göstermek
+Premium durumunu hatırlamak
 
-Uygulama performansını geliştirmek
-Hataları tespit etmek ve gidermek
-Reklam gösterimini sağlamak
-Kullanıcı deneyimini iyileştirmek
-Uygulama İçeriği ve Yapay Zeka Kullanımı
+Uygulama içeriği ve yapay zeka
 
-Uygulama içerisindeki bazı içerikler ve sorular, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiş olabilir.
+Uygulama içindeki bazı içerikler ve sorular, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiş olabilir.
 
 Bu içerikler:
 
 Kullanıcı verilerine dayanmaz
 Kişiselleştirilmiş değildir
 Kullanıcı davranışına göre üretilmez
-Yasal Uyarı ve İçerik Sorumluluk Reddi
 
-Kamupedia uygulaması, KPSS sınavına hazırlık amacıyla geliştirilmiş bağımsız bir eğitim uygulamasıdır. Uygulama, ÖSYM, Milli Eğitim Bakanlığı veya herhangi bir resmi devlet kurumu ile bağlantılı değildir, bu kurumlar tarafından desteklenmemekte veya onaylanmamaktadır.
+Yasal uyarı
 
-İçerik ve Soru Yapısı
+Kamupedia, KPSS sınavına hazırlık amacıyla geliştirilmiş bağımsız bir eğitim uygulamasıdır. Uygulama, ÖSYM, Milli Eğitim Bakanlığı veya herhangi bir resmi kurum ile bağlantılı değildir; bu kurumlar tarafından desteklenmez veya onaylanmaz.
 
-Uygulama içerisinde yer alan yaklaşık 15.000+ soru ve içerik, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiştir. Tüm içerikler geliştirici tarafından kontrol edilmekte olsa da, hata, eksiklik veya güncellik sorunları içerebilir.
+İçerik ve soru yapısı
+
+Uygulama içindeki yaklaşık 15.000+ soru ve içerik, yapay zeka destekli sistemler kullanılarak oluşturulmuş veya sentezlenmiştir. İçerikler geliştirici tarafından kontrol edilse de hata, eksiklik veya güncellik sorunu içerebilir.
 
 Bu nedenle:
 
-Soruların tamamı resmi veya doğrulanmış sınav soruları değildir
-Hatalar veya eksiklikler bulunabilir
+Soruların tamamı resmi veya doğrulanmış sınav sorusu değildir
+Hata veya eksiklik bulunabilir
 Resmi bilgi için ÖSYM ve MEB kaynakları esas alınmalıdır
-Kullanım Amacı
+
+Kullanım amacı
 
 Uygulama yalnızca eğitim ve pratik amaçlıdır. Resmi sınav başvurusu, belge veya kamu hizmeti sunmaz.
 
-Veri Saklama
+Hesabı silme ve saklama
 
-Veriler, hizmet sağlandığı sürece saklanabilir ve gerektiğinde anonim hale getirilir veya silinir.
+Hesabı Uygulama Ayarları içindeki “Hesabı sil” ile silebilirsin. Bu işlem adsız hesabı, bu hesaba bağlı bildirim kaydını ve hesap numarası taşıyan eski sunucu kayıtlarını siler. İndirilen içerik, test ilerlemesi ve cihazdaki diğer çalışma kayıtları da silinir.
 
-Çocukların Gizliliği
+Hesap numarası olmadan saklanan geri bildirim, soru bildirimi ve anket cevapları, hangi hesaba ait olduğu bilinmediği için bu silme ile eşleştirilip kaldırılamaz.
 
-Uygulama 13 yaş altı kullanıcıları hedeflemez ve bilerek kişisel veri toplamaz.
+Kalan veriler, hizmet sürdüğü sürece saklanır.
+
+Çocukların gizliliği
+
+Uygulama 13 yaş altı kullanıcıları hedeflemez ve bilerek bu yaştakilerden kişisel veri toplamaz.
 
 Güvenlik
 
-Veriler Firebase ve Google altyapısı tarafından korunmaktadır.
+Veriler Firebase ve Google altyapısı tarafından korunur.
 
 Değişiklikler
 
-Bu gizlilik politikası zaman zaman güncellenebilir ve değişiklikler bu sayfada yayınlanır.
+Bu gizlilik politikası zaman zaman güncellenebilir. Değişiklikler bu sayfada yayınlanır.
 
 İletişim
 
-📧 alimuratkalayci@outlook.com
+alimuratkalayci@outlook.com
 
-Yürürlük Tarihi
+Yürürlük tarihi
 
-14 Mayıs 2026
+25 Ekim 2026
 
 🇬🇧 ENGLISH
 Privacy Policy
 
 This Privacy Policy applies to the Kamupedia application (“Application”), developed by Ali Murat Kalaycı as an ad-supported educational service. The Application is provided “AS IS”.
 
-Information Collection and Use
+Account
 
-The Application does not request or collect any directly identifiable personal information such as name, email address, or phone number.
+The Application does not ask for your name, email address, phone number, or password.
 
-However, the Application may automatically collect anonymized technical data to improve service quality and serve advertisements, including:
+At the end of the introductory screens, an anonymous Firebase account is created. That account has only an account identifier. The identifier is not your name, email address, or phone number.
+
+If you allow notifications, your notification token is stored on the server together with that account identifier. The token is used to send notifications and to remove that record when you delete the account.
+
+Information you choose to send
+
+If you send feedback, your message, platform (iOS or Android), app version, and the time of submission are stored on the server.
+
+If you report a question, your message, the question reference, your platform, and the time of submission are stored on the server.
+
+If you answer a short poll on the home screen, your selected option and the time of submission are stored on the server.
+
+In this version, feedback, question reports, and poll answers are not linked to your account identifier. If you type a name, email address, or phone number into a message, that information is stored as part of the message text.
+
+Data stored on the device
+
+Study progress, test results, favorites, wrong answers, spelling and matching progress, the study plan, and downloaded content are stored on your device. These records remain on the device until the next account deletion.
+
+Your theme and notification switch remain on the device.
+
+Purchases
+
+Apple or Google processes premium purchases and subscription payments. The Application does not collect card details. Your premium status is stored on the device. You can restore a purchase from your store account.
+
+Deleting the account does not cancel the subscription. The subscription continues until you cancel it in your Apple or Google account.
+
+Technical data collected automatically
+
+The Application may collect the following technical data to operate the service, detect errors, and show advertisements:
 
 Device information (model, operating system version)
-IP address (for general analytics purposes)
-Application usage statistics (screens viewed, time spent, etc.)
+Application usage statistics (screens viewed, time spent)
 Crash reports
 Advertising interaction data
 
-This data is not used to identify users personally.
+On iOS, analytics and advertisements start after Apple’s tracking permission prompt. Where advertising consent is required, Google’s consent form is also shown.
 
-Third-Party Services
+Your IP address may be processed by Firebase and Google advertising services. The Application does not ask you for an IP address.
+
+Third-party services
 
 The Application uses:
 
-Google Firebase Analytics
+Firebase Authentication (anonymous account)
+Cloud Firestore (notification token, feedback, question reports, polls)
+Firebase Cloud Messaging (notifications)
+Firebase Storage (content and questions)
+Firebase Analytics
 Firebase Crashlytics
-Firebase Storage (for content and questions)
-Google AdMob (for advertisements)
+Firebase Remote Config (update notice)
+Google AdMob (advertisements)
+Apple App Store and Google Play (purchases)
 
 Each service has its own privacy policy.
 
-Purpose of Data Use
+Purpose of use
 
-The collected anonymized data is used for:
+Creating and deleting the account
+Sending notifications
+Reading feedback, question reports, and polls
+Delivering content and questions
+Detecting errors
+Improving performance and the user experience
+Showing advertisements
+Remembering premium status
 
-Improving application performance
-Fixing errors
-Serving advertisements
-Enhancing user experience
-Application Content and AI Usage
+Application content and AI
 
-Some content and questions within the Application may be generated or synthesized using artificial intelligence-based systems.
+Some content and questions in the Application may be generated or synthesized using artificial intelligence systems.
 
 This content:
 
 Is not based on user data
 Is not personalized
-Is not generated based on user behavior
-Disclaimer and Content Responsibility
+Is not generated from user behavior
 
-Kamupedia is an independent educational application for exam preparation purposes. It is not affiliated with, endorsed by, or connected to any government institution, including ÖSYM or the Ministry of National Education.
+Disclaimer
 
-Content and Question Structure
+Kamupedia is an independent educational application for exam preparation. It is not affiliated with, endorsed by, or connected to ÖSYM, the Ministry of National Education, or any other official institution.
 
-Approximately 15,000+ questions and content are generated or synthesized using AI-assisted systems. While the content is reviewed by the developer, it may contain errors, omissions, or outdated information.
+Content and questions
+
+Approximately 15,000+ questions and pieces of content are generated or synthesized using AI-assisted systems. The developer reviews the content, but it may contain errors, omissions, or outdated information.
 
 Therefore:
 
 Not all questions are official or verified exam questions
-Errors or inaccuracies may exist
-Official sources such as ÖSYM should be considered authoritative
-Purpose of Use
+Errors or omissions may exist
+Official ÖSYM and Ministry of National Education sources should be treated as authoritative
 
-This application is intended for educational and practice purposes only. It does not provide official exam services or documentation.
+Purpose of the Application
 
-Data Retention
+The Application is for education and practice only. It does not provide official exam registration, documents, or a public service.
 
-Data may be retained as long as necessary to provide services and may be deleted or anonymized when no longer required.
+Account deletion and retention
 
-Children’s Privacy
+You can delete the account from “Delete account” in Application Settings. This deletes the anonymous account, the notification record linked to that account, and older server records that still contain the account identifier. Downloaded content, test progress, and other study records on the device are deleted as well.
 
-The Application is not intended for users under the age of 13 and does not knowingly collect personal data from children.
+Feedback, question reports, and poll answers stored without an account identifier cannot be matched to the account, so this deletion cannot remove them.
+
+Remaining data is kept while the service is provided.
+
+Children’s privacy
+
+The Application is not directed to children under 13 and does not knowingly collect personal data from them.
 
 Security
 
-Data is protected using Firebase and Google infrastructure security standards.
+Data is protected by Firebase and Google infrastructure.
 
-Changes to This Policy
+Changes
 
-This Privacy Policy may be updated from time to time. Changes will be posted on this page.
+This Privacy Policy may be updated from time to time. Changes are published on this page.
 
 Contact
 
-📧 alimuratkalayci@outlook.com
+alimuratkalayci@outlook.com
 
-Effective Date
+Effective date
 
-May 14, 2026
+October 25, 2026
